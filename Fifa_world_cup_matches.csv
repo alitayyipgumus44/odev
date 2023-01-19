@@ -1,4 +1,4 @@
-team1,team2,possession team1,possession team2,possession in contest,number of goals team1,number of goals team2,date,hour,category
+team1,team2,possession_team1,possession_team2,possession_in_contest,number_of_goals_team1,number_of_goals_team2,date,hour,category
 QATAR,ECUADOR,42%,50%,8%,0,2,20 NOV 2022,17 : 00,Group A
 ENGLAND,IRAN,72%,19%,9%,6,2,21 NOV 2022,14 : 00,Group B
 SENEGAL,NETHERLANDS,44%,45%,11%,0,2,21 NOV 2022,17 : 00,Group A
